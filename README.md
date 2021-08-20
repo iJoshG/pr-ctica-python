@@ -1,1 +1,1 @@
-# pr-ctica-python
+# practica-python
